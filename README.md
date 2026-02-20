@@ -16,7 +16,7 @@ Currently based in Fredericton, NB, Canada 🇨🇦
 
 **Currently learning:** Linux, Git, Cybersecurity fundamentals
 
-**Languages:** English, French, Portuguese
+**Languages:** English, French, Brazilian Portuguese
 
 ## Recent Achievement
 I created a Python automation that reduced repetitive document processing time by 80% in my current role at a government operations environment. It handles file conversion, conditional routing, document merging, and automated archival.
